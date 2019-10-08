@@ -11,13 +11,13 @@ Ruta,PARADA IDA,PARADA VUELTA,Adharaz,Altasierra,Localidad
 2,Calle Estacada del Rosario Urb.Aljamar III,Calle Estacada del Rosario Urb.Aljamar III,2,0,Tomares
 2,Calle Estacada del Rosario Urb.Aljamar VII,Calle Estacada del Rosario Urb.Aljamar VII,1,2,Tomares
 2,Calle Marti esquina Trece Rosas ,Parque concepcion con Rosa de luxemburgo,2,1,Tomares
-2,Calle Rosa de Luxemburgo nº 40,Calle Rosa de Luxemburgo nº 40,7,5,Tomares
-2,Avda. Victoria Kent Nº 96,Avda. Victoria Kent Nº 96,0,2,Bormujo
+2,Calle Rosa de Luxemburgo n 40,Calle Rosa de Luxemburgo n 40,7,5,Tomares
+2,Avda. Victoria Kent N 96,Avda. Victoria Kent N 96,0,2,Bormujo
 3,Avda. de la Buhaira Inmob. Osuna,Avda. de la Buhaira Inmob. Osuna,0,2,Sevilla
 3,Avda. de la Buhaira frente Mr Gallardo,Avda. de la Buhaira altura Mr Gallardo,0,2,Sevilla
 3,C/ Doctor Ordoñez de la Barrera esquina con C/ Doctor Pedro Castro,C/Ramon Carande Esquina C/Miguel Rodriguez Piñero Oficina Maz,7,5,Sevilla
 3,C/ Ramon Carande cartel Master Propiedad ,C/ Ramon Carande frente oficina Man power,14,12,Sevilla
-3,C/ Juan pablo II 2º Rotonda media luna en el semanfono,c/Juan pablo II 1º rotonda en la media luna en el semaforo,2,1,Sevilla
+3,C/ Juan pablo II 2 Rotonda media luna en el semanfono,c/Juan pablo II 1 rotonda en la media luna en el semaforo,2,1,Sevilla
 4,C/ Amador de los Rios tienda Canon,Plaza Ponce de Leon ,1,2,Sevilla
 4,Plaza Ponce de Leon ,C/ Amador de los Rios tienda Canon,7,2,Sevilla
 4,Puerta Carmona Farmacia,C/Florida con Luis Montoto,0,1,Sevilla
@@ -32,11 +32,11 @@ Ruta,PARADA IDA,PARADA VUELTA,Adharaz,Altasierra,Localidad
 5,C/ Torneo esquina Puerta San Juan parada bus,C/ Torneo esquina Puerta San Juan frente parada bus,4,2,Sevilla
 5,C/ Torneo (frente gasolinera),C/ Torneo (Gasolinera),10,9,Sevilla
 5,C/ Marques de parada (Farmacia),C/ Marques de parada (Farmacia),0,1,Sevilla
-5,Torre Pelli Parada bus Nº 6,C/Odiel junto a la puerta del centro de salud el Cachorro,23,17,Sevilla
+5,Torre Pelli Parada bus N 6,C/Odiel junto a la puerta del centro de salud el Cachorro,23,17,Sevilla
 6,Pages del corro esquina con San Vicente de Paul,Teatro Maestranza enfrente,3,1,Sevilla
 6, Teatro Maestranza. (En frente),Pages del corro esquina con San Vicente de Paul,5,1,Sevilla
-6,Rep argentina Nº 2,Rep argentina Nº 13 kiosco,2,10,Sevilla
-6,C/ Republica Argentina Edificio Torre de los Remedios Nº 24,C/ Republica Argentina Restaurante Vips,7,3,Sevilla
+6,Rep argentina N 2,Rep argentina N 13 kiosco,2,10,Sevilla
+6,C/ Republica Argentina Edificio Torre de los Remedios N 24,C/ Republica Argentina Restaurante Vips,7,3,Sevilla
 6,C/Republica Argentina 34,C/Republica Argentina 31,0,2,Sevilla
 6,Blas Infante,Blas Infante,6,6,Sevilla
 6,C/Ruben Dario en frente urb parque Ruben Dario,NO,0,0,Sevilla
@@ -56,7 +56,7 @@ Ruta,PARADA IDA,PARADA VUELTA,Adharaz,Altasierra,Localidad
 9,Avda. Finlandia (Frente Correos),Avda. Finlandia (Correos),4,1,Sevilla
 9,Avda. de Grecia,Avda. de Grecia,1,0,Sevilla
 9,Avd la palmera Edif. BBVA,Avd la palmera preferncia Betis,1,2,Sevilla
-9,Avda. de la Palmera Nº 25 Edificio Banesto,Avda. de la Palmera Nº 25 Edificio Banesto. En frente,1,1,Sevilla
+9,Avda. de la Palmera N 25 Edificio Banesto,Avda. de la Palmera N 25 Edificio Banesto. En frente,1,1,Sevilla
 9,Paseo de las Delicias (Pabellon de Brasil),Clinica de Fatima,0,1,Sevilla
 9,Avd. Adolfo Suarez Bar Cantil,Avd. Adolfo Suarez puerta Club Mercantil,8,5,Sevilla
 9,Flota de india bar los Gordales,Flota de india en frente,9,5,Sevilla
