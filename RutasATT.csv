@@ -15,7 +15,7 @@ Ruta,PARADA IDA,PARADA VUELTA,Adharaz,Altasierra,Localidad
 2,Avda. Victoria Kent N 96,Avda. Victoria Kent N 96,0,2,Bormujo
 3,Avda. de la Buhaira Inmob. Osuna,Avda. de la Buhaira Inmob. Osuna,0,2,Sevilla
 3,Avda. de la Buhaira frente Mr Gallardo,Avda. de la Buhaira altura Mr Gallardo,0,2,Sevilla
-3,C/ Doctor Ordoñez de la Barrera esquina con C/ Doctor Pedro Castro,C/Ramon Carande Esquina C/Miguel Rodriguez Piñero Oficina Maz,7,5,Sevilla
+3,C/ Doctor OrdoÃ±ez de la Barrera esquina con C/ Doctor Pedro Castro,C/Ramon Carande Esquina C/Miguel Rodriguez PiÃ±ero Oficina Maz,7,5,Sevilla
 3,C/ Ramon Carande cartel Master Propiedad ,C/ Ramon Carande frente oficina Man power,14,12,Sevilla
 3,C/ Juan pablo II 2 Rotonda media luna en el semanfono,c/Juan pablo II 1 rotonda en la media luna en el semaforo,2,1,Sevilla
 4,C/ Amador de los Rios tienda Canon,Plaza Ponce de Leon ,1,2,Sevilla
@@ -32,7 +32,7 @@ Ruta,PARADA IDA,PARADA VUELTA,Adharaz,Altasierra,Localidad
 5,C/ Torneo esquina Puerta San Juan parada bus,C/ Torneo esquina Puerta San Juan frente parada bus,4,2,Sevilla
 5,C/ Torneo (frente gasolinera),C/ Torneo (Gasolinera),10,9,Sevilla
 5,C/ Marques de parada (Farmacia),C/ Marques de parada (Farmacia),0,1,Sevilla
-5,Torre Pelli Parada bus N 6,C/Odiel junto a la puerta del centro de salud el Cachorro,23,17,Sevilla
+5,Torre Pelli Parada bus N 6, C/Odiel junto a la puerta del centro de salud el Cachorro,23,17,Sevilla
 6,Pages del corro esquina con San Vicente de Paul,Teatro Maestranza enfrente,3,1,Sevilla
 6, Teatro Maestranza. (En frente),Pages del corro esquina con San Vicente de Paul,5,1,Sevilla
 6,Rep argentina N 2,Rep argentina N 13 kiosco,2,10,Sevilla
@@ -41,9 +41,9 @@ Ruta,PARADA IDA,PARADA VUELTA,Adharaz,Altasierra,Localidad
 6,Blas Infante,Blas Infante,6,6,Sevilla
 6,C/Ruben Dario en frente urb parque Ruben Dario,NO,0,0,Sevilla
 7,Via Aurelia 16,Via Aurelia 16,8,2,Sevilla
-7,C/ Luis de Morales Domino´s Pizza,C/San Francisco Javier esquina C/ Camilo Jose Cela ,1,2,Sevilla
+7,C/ Luis de Morales DominoÂ´s Pizza,C/San Francisco Javier esquina C/ Camilo Jose Cela ,1,2,Sevilla
 7,C/ San Francisco Javier esquina C/ Eduardo Dato edificio Huerta del rey,C/ San Francisco Javier esquina C/ Eduardo Dato edificio Huerta del rey,4,0,Sevilla
-7,C/San Francisco Javier esquina C/ Camilo Jose Cela ,C/ Luis de Morales Domino´s Pizza,3,4,Sevilla
+7,C/San Francisco Javier esquina C/ Camilo Jose Cela ,C/ Luis de Morales DominoÂ´s Pizza,3,4,Sevilla
 7, C/ Cardenal Bueno Monreal parada bus entrada tunel, C/ Cardenal Bueno Monreal parada bus salida tunel,9,2,Sevilla
 8,Metro San Juan Alto,Metro San Juan Alto,2,2,San Juan de Aznalfarache
 8,Glorieta de la Cartuja,Glorieta de la Cartuja,0,2,Tomares
