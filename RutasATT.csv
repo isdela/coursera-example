@@ -5,7 +5,7 @@ Ruta,PARADA IDA,PARADA VUELTA,Adharaz,Altasierra,Localidad,TotAlumnos
 1,C/ Muerdago esquina C/ Valle colorado,C/ Muerdago esquina C/ Valle colorado,20,20,Mairena del Aljarafe,40
 1,Carretera San Juan- Palomares frente supermercado Dia,Carretera San Juan- Palomares frente supermercado Dia,20,30,Mairena del Aljarafe,50
 1,Ciudad Expo Puerta Metromar parada bus,Ciudad Expo En frente Metromar parada bus,110,20,Mairena del Aljarafe,130
-1,Avd de los olmos (parada Farmacia),Avd de los olmos (parada Farmacia),70,50,Mairena del Aljarafe,120
+1,Avd de los olmos (parada Farmacia), Avd de los olmos (parada Farmacia),70,50,Mairena del Aljarafe,120
 1,Polideportivo crtra. Mairena-Bormujos,Polideportivo crtra. Mairena-Bormujos En frente,0,0,Bormujos,0
 2,Rotonda Camino de Villamanrique esquina Concejal Alberto Jimenez (Tomares),C/ Camino de Villamanrique esquina Concejal Alberto Jimenez (Tomares),120,100,Tomares,220
 2,Calle Estacada del Rosario Urb.Aljamar III,Calle Estacada del Rosario Urb.Aljamar III,20,0,Tomares,20
@@ -15,7 +15,7 @@ Ruta,PARADA IDA,PARADA VUELTA,Adharaz,Altasierra,Localidad,TotAlumnos
 2,Avda. Victoria Kent N 96,Avda. Victoria Kent N 96,0,20,Bormujos,20
 3,Avda. de la Buhaira Inmob. Osuna,Avda. de la Buhaira Inmob. Osuna,0,20,Sevilla,20
 3,Avda. de la Buhaira frente Mr Gallardo,Avda. de la Buhaira altura Mr Gallardo,0,20,Sevilla,20
-3,C/ Doctor Ordo«Òez de la Barrera esquina con C/ Doctor Pedro Castro,C/Ramon Carande Esquina C/Miguel Rodriguez Pi«Òero Oficina Maz,70,50,Sevilla,120
+3,C/ Doctor Ordo√á√±ez de la Barrera esquina con C/ Doctor Pedro Castro,C/Ramon Carande Esquina C/Miguel Rodriguez Pi√á√±ero Oficina Maz,70,50,Sevilla,120
 3,C/ Ramon Carande cartel Master Propiedad ,C/ Ramon Carande frente oficina Man power,140,120,Sevilla,260
 3,C/ Juan pablo II 2 Rotonda media luna en el semanfono,c/Juan pablo II 1 rotonda en la media luna en el semaforo,20,10,Sevilla,30
 4,C/ Amador de los Rios tienda Canon,Plaza Ponce de Leon ,10,20,Sevilla,30
@@ -41,9 +41,9 @@ Ruta,PARADA IDA,PARADA VUELTA,Adharaz,Altasierra,Localidad,TotAlumnos
 6,Blas Infante,Blas Infante,60,60,Sevilla,120
 6,C/Ruben Dario en frente urb parque Ruben Dario,NO,0,0,Sevilla,0
 7,Via Aurelia 16,Via Aurelia 16,80,20,Sevilla,100
-7,C/ Luis de Morales Domino∂Ôs Pizza,C/San Francisco Javier esquina C/ Camilo Jose Cela ,10,20,Sevilla,30
+7,C/ Luis de Morales Domino¬∂√Øs Pizza,C/San Francisco Javier esquina C/ Camilo Jose Cela ,10,20,Sevilla,30
 7,C/ San Francisco Javier esquina C/ Eduardo Dato edificio Huerta del rey,C/ San Francisco Javier esquina C/ Eduardo Dato edificio Huerta del rey,40,0,Sevilla,40
-7,C/San Francisco Javier esquina C/ Camilo Jose Cela ,C/ Luis de Morales Domino∂Ôs Pizza,30,40,Sevilla,70
+7,C/San Francisco Javier esquina C/ Camilo Jose Cela ,C/ Luis de Morales Domino¬∂√Øs Pizza,30,40,Sevilla,70
 7, C/ Cardenal Bueno Monreal parada bus entrada tunel, C/ Cardenal Bueno Monreal parada bus salida tunel,90,20,Sevilla,110
 8,Metro San Juan Alto,Metro San Juan Alto,20,20,San Juan de Aznalfarache,40
 8,Glorieta de la Cartuja,Glorieta de la Cartuja,0,20,Tomares,20
