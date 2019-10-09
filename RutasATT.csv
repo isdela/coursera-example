@@ -1,78 +1,78 @@
-Ruta;PARADA IDA;PARADA VUELTA;Adharaz;Altasierra;Localidad;TotAlumnos
-1;Avd de coria esq Matias vela;Avd de coria esq Matias Vela parada bus;0;10;Gelves;10
-1;Avda. de Coria esquina calle Menorca A-8058 km 5 parada bus;Avda. de Coria esquina C/ vega A-8058 km 5 ;0;20;Gelves;20
-1;Avda. de Mejico esq C/ Uruguay;Avda. de Mejico 5;70;30;Gelves;100
-1;C/ Muerdago esquina C/ Valle colorado;C/ Muerdago esquina C/ Valle colorado;20;20;Mairena del Aljarafe;40
-1;Carretera San Juan- Palomares frente supermercado Dia;Carretera San Juan- Palomares frente supermercado Dia;20;30;Mairena del Aljarafe;50
-1;Ciudad Expo Puerta Metromar parada bus;Ciudad Expo En frente Metromar parada bus;110;20;Mairena del Aljarafe;130
-1;Avd de los olmos (parada Farmacia);Avd de los olmos (parada Farmacia);70;50;Mairena del Aljarafe;120
-1;Polideportivo crtra. Mairena-Bormujos;Polideportivo crtra. Mairena-Bormujos En frente;0;0;Bormujos;0
-2;Rotonda Camino de Villamanrique esquina Concejal Alberto Jimenez (Tomares);C/ Camino de Villamanrique esquina Concejal Alberto Jimenez (Tomares);120;100;Tomares;220
-2;Calle Estacada del Rosario Urb.Aljamar III;Calle Estacada del Rosario Urb.Aljamar III;20;0;Tomares;20
-2;Calle Estacada del Rosario Urb.Aljamar VII;Calle Estacada del Rosario Urb.Aljamar VII;10;20;Tomares;30
-2;Calle Marti esquina Trece Rosas ;Parque concepcion con Rosa de luxemburgo;20;10;Tomares;30
-2;Calle Rosa de Luxemburgo n 40;Calle Rosa de Luxemburgo n 40;70;50;Tomares;120
-2;Avda. Victoria Kent N 96;Avda. Victoria Kent N 96;0;20;Bormujos;20
-3;Avda. de la Buhaira Inmob. Osuna;Avda. de la Buhaira Inmob. Osuna;0;20;Sevilla;20
-3;Avda. de la Buhaira frente Mr Gallardo;Avda. de la Buhaira altura Mr Gallardo;0;20;Sevilla;20
-3;C/ Doctor Ordo«Òez de la Barrera esquina con C/ Doctor Pedro Castro;C/Ramon Carande Esquina C/Miguel Rodriguez Pi«Òero Oficina Maz;70;50;Sevilla;120
-3;C/ Ramon Carande cartel Master Propiedad ;C/ Ramon Carande frente oficina Man power;140;120;Sevilla;260
-3;C/ Juan pablo II 2 Rotonda media luna en el semanfono;c/Juan pablo II 1 rotonda en la media luna en el semaforo;20;10;Sevilla;30
-4;C/ Amador de los Rios tienda Canon;Plaza Ponce de Leon ;10;20;Sevilla;30
-4;Plaza Ponce de Leon ;C/ Amador de los Rios tienda Canon;70;20;Sevilla;90
-4;Puerta Carmona Farmacia;C/Florida con Luis Montoto;0;10;Sevilla;10
-4;Puente de los bomberos parada bus despues parking;Puente de los bomberos Bar coronado;40;20;Sevilla;60
-4;C/ Menendez Pelayo Hotel Alcazar;C/ Menendez Pelayo frente Hotel Alcazar;0;0;Sevilla;0
-4;C/ Virgen de Lujan esquina C/ Montecarmelo;C/ Virgen de Lujan Bar Malaga;70;110;Sevilla;180
-4;C/ Virgen de Lujan frente Chocolateria; C/Virgen de Lujan chocolateria;90;50;Sevilla;140
-5;Avda. Manuel del Valle Pizzeria Elisa Victoria ;Avda. Manuel del Valle Bar el Rincon del Consul ;20;0;Sevilla;20
-5;Avda. de Llanes esquina San Juan de la Salle;Avda. de Llanes esquina San Juan de la Salle;;;Sevilla;
-5;;Avd de juventudes musicales esquina con C/ Fedriani ( Hotel AC torneo);40;20;Sevilla;60
-5;Avda.Concejal Alberto Jimenez Bec esquina C/ Jose Diaz ;Avda.Concejal Alberto Jimenez Bec esquina C/ Jose Diaz frente;30;10;Sevilla;40
-5;C/ Torneo esquina Puerta San Juan parada bus;C/ Torneo esquina Puerta San Juan frente parada bus;40;20;Sevilla;60
-5;C/ Torneo (frente gasolinera);C/ Torneo (Gasolinera);100;90;Sevilla;190
-5;C/ Marques de parada (Farmacia);C/ Marques de parada (Farmacia);0;10;Sevilla;10
-5;Torre Pelli Parada bus N 6; C/Odiel junto a la puerta del centro de salud el Cachorro;230;170;Sevilla;400
-6;Pages del corro esquina con San Vicente de Paul;Teatro Maestranza enfrente;30;10;Sevilla;40
-6; Teatro Maestranza. (En frente);Pages del corro esquina con San Vicente de Paul;50;10;Sevilla;60
-6;Rep argentina N 2;Rep argentina N 13 kiosco;20;100;Sevilla;120
-6;C/ Republica Argentina Edificio Torre de los Remedios N 24;C/ Republica Argentina Restaurante Vips;70;30;Sevilla;100
-6;C/Republica Argentina 34;C/Republica Argentina 31;0;20;Sevilla;20
-6;Blas Infante;Blas Infante;60;60;Sevilla;120
-6;C/Ruben Dario en frente urb parque Ruben Dario;NO;0;0;Sevilla;0
-7;Via Aurelia 16;Via Aurelia 16;80;20;Sevilla;100
-7;C/ Luis de Morales Domino∂Ôs Pizza;C/San Francisco Javier esquina C/ Camilo Jose Cela ;10;20;Sevilla;30
-7;C/ San Francisco Javier esquina C/ Eduardo Dato edificio Huerta del rey;C/ San Francisco Javier esquina C/ Eduardo Dato edificio Huerta del rey;40;0;Sevilla;40
-7;C/San Francisco Javier esquina C/ Camilo Jose Cela ;C/ Luis de Morales Domino∂Ôs Pizza;30;40;Sevilla;70
-7; C/ Cardenal Bueno Monreal parada bus entrada tunel; C/ Cardenal Bueno Monreal parada bus salida tunel;90;20;Sevilla;110
-8;Metro San Juan Alto;Metro San Juan Alto;20;20;San Juan de Aznalfarache;40
-8;Glorieta de la Cartuja;Glorieta de la Cartuja;0;20;Tomares;20
-8;Glorieta Burger King Parada Bus;Glorieta Burger King Parada Bus;;;Tomares;
-8;Camino de Villamanrrique con Cristina Hoyos;Camino de Villamanrrique con Cristina Hoyos;0;0;Tomares;0
-8;Urb. Zaudin C/ Begonia/ Sauces;Urb. Zaudin C/ Begonia/ Sauces;70;0;Bormujos;70
-8;Urb. Zaudin C/ Begonia / Bahunias;Urb. Zaudin C/ Begonia / Bahunias;10;40;Bormujos;50
-8;Urb. Zaudin C/ Begonia / Acacias;Urb. Zaudin C/ Begonia / Acacias;0;0;Bormujos;0
-8;Universidad de Salamanca esquina Avda. San Juan de Dios;Universidad de Salamanca esquina Avda. San Juan de Dios;30;30;Bormujos;60
-9;Avda. Finlandia (Frente Correos);Avda. Finlandia (Correos);40;10;Sevilla;50
-9;Avda. de Grecia;Avda. de Grecia;10;0;Sevilla;10
-9;Avd la palmera Edif. BBVA;Avd la palmera preferncia Betis;10;20;Sevilla;30
-9;Avda. de la Palmera N 25 Edificio Banesto;Avda. de la Palmera N 25 Edificio Banesto. En frente;10;10;Sevilla;20
-9;Paseo de las Delicias (Pabellon de Brasil);Clinica de Fatima;0;10;Sevilla;10
-9;Avd. Adolfo Suarez Bar Cantil;Avd. Adolfo Suarez puerta Club Mercantil;80;50;Sevilla;130
-9;Flota de india bar los Gordales;Flota de india en frente;90;50;Sevilla;140
-10;Hato Verde;Hato verde;0;10;Las Pajanosas;10
-10;Frente Gsolinera Repsol/ La Algaba;Frente Gsolinera Repsol/ La Algaba;10;20;La Algaba;30
-10;Avda. Sevilla 22;;10;10;Gines;20
-10;Avda. Europa 20;;10;0;Gines;10
-10;Glorieta Parque Real;Glorieta Parque Real;20;0;Gines;20
-10;Rotonda Mas Espartinas;Rotonda Mas Espartinas;0;0;Espartina;0
-10;Urbanizacion Santa Teresa;Urbanizacion Santa Teresa;10;10;Espartina;20
-11;Rotonda salteras;Rotonda salteras;0;10;Salteras;10
-11;Urb. Terrazas Vega del Rey (puerta del gimnasio);Urb. Terrazas Vega del Rey (puerta del gimnasio);30;10;Camas;40
-11;C/ Altozano Polideportivo Tomares;C/ Altozano Polideportivo Tomares;40;30;Tomares;70
-11;C/ Triana 1 Tomares;C/ Triana 1 Tomares;50;20;Tomares;70
-11;Rotonda Villares alto Tomares;Rotonda Villares alto Tomares;30;0;Tomares;30
-11;Glorieta del Bombita  Parada Bus;Glorieta del Bombita  Parada Bus;10;40;Tomares;50
-11;Glorieta del Salado Parada Bus;Glorieta del Salado Parada Bus;10;40;Tomares;50
-11;Urb. Colina Blanca Parada Bus;Urb. Colina Blanca Parada Bus;30;0;Castilleja de la Cuesta;30
-11;Avda. de Sevilla Parada Bus;Avda. de Sevilla Parada Bus;10;0;Sevilla;10
+Ruta,PARADA IDA,PARADA VUELTA,Adharaz,Altasierra,Localidad,TotAlumnos
+1,Avd de coria esq Matias vela,Avd de coria esq Matias Vela parada bus,0,10,Gelves,10
+1,Avda. de Coria esquina calle Menorca A-8058 km 5 parada bus,Avda. de Coria esquina C/ vega A-8058 km 5 ,0,20,Gelves,20
+1,Avda. de Mejico esq C/ Uruguay,Avda. de Mejico 5,70,30,Gelves,100
+1,C/ Muerdago esquina C/ Valle colorado,C/ Muerdago esquina C/ Valle colorado,20,20,Mairena del Aljarafe,40
+1,Carretera San Juan- Palomares frente supermercado Dia,Carretera San Juan- Palomares frente supermercado Dia,20,30,Mairena del Aljarafe,50
+1,Ciudad Expo Puerta Metromar parada bus,Ciudad Expo En frente Metromar parada bus,110,20,Mairena del Aljarafe,130
+1,Avd de los olmos (parada Farmacia),Avd de los olmos (parada Farmacia),70,50,Mairena del Aljarafe,120
+1,Polideportivo crtra. Mairena-Bormujos,Polideportivo crtra. Mairena-Bormujos En frente,0,0,Bormujos,0
+2,Rotonda Camino de Villamanrique esquina Concejal Alberto Jimenez (Tomares),C/ Camino de Villamanrique esquina Concejal Alberto Jimenez (Tomares),120,100,Tomares,220
+2,Calle Estacada del Rosario Urb.Aljamar III,Calle Estacada del Rosario Urb.Aljamar III,20,0,Tomares,20
+2,Calle Estacada del Rosario Urb.Aljamar VII,Calle Estacada del Rosario Urb.Aljamar VII,10,20,Tomares,30
+2,Calle Marti esquina Trece Rosas ,Parque concepcion con Rosa de luxemburgo,20,10,Tomares,30
+2,Calle Rosa de Luxemburgo n 40,Calle Rosa de Luxemburgo n 40,70,50,Tomares,120
+2,Avda. Victoria Kent N 96,Avda. Victoria Kent N 96,0,20,Bormujos,20
+3,Avda. de la Buhaira Inmob. Osuna,Avda. de la Buhaira Inmob. Osuna,0,20,Sevilla,20
+3,Avda. de la Buhaira frente Mr Gallardo,Avda. de la Buhaira altura Mr Gallardo,0,20,Sevilla,20
+3,C/ Doctor Ordo«Òez de la Barrera esquina con C/ Doctor Pedro Castro,C/Ramon Carande Esquina C/Miguel Rodriguez Pi«Òero Oficina Maz,70,50,Sevilla,120
+3,C/ Ramon Carande cartel Master Propiedad ,C/ Ramon Carande frente oficina Man power,140,120,Sevilla,260
+3,C/ Juan pablo II 2 Rotonda media luna en el semanfono,c/Juan pablo II 1 rotonda en la media luna en el semaforo,20,10,Sevilla,30
+4,C/ Amador de los Rios tienda Canon,Plaza Ponce de Leon ,10,20,Sevilla,30
+4,Plaza Ponce de Leon ,C/ Amador de los Rios tienda Canon,70,20,Sevilla,90
+4,Puerta Carmona Farmacia,C/Florida con Luis Montoto,0,10,Sevilla,10
+4,Puente de los bomberos parada bus despues parking,Puente de los bomberos Bar coronado,40,20,Sevilla,60
+4,C/ Menendez Pelayo Hotel Alcazar,C/ Menendez Pelayo frente Hotel Alcazar,0,0,Sevilla,0
+4,C/ Virgen de Lujan esquina C/ Montecarmelo,C/ Virgen de Lujan Bar Malaga,70,110,Sevilla,180
+4,C/ Virgen de Lujan frente Chocolateria, C/Virgen de Lujan chocolateria,90,50,Sevilla,140
+5,Avda. Manuel del Valle Pizzeria Elisa Victoria ,Avda. Manuel del Valle Bar el Rincon del Consul ,20,0,Sevilla,20
+5,Avda. de Llanes esquina San Juan de la Salle,Avda. de Llanes esquina San Juan de la Salle,,,Sevilla,
+5,,Avd de juventudes musicales esquina con C/ Fedriani ( Hotel AC torneo),40,20,Sevilla,60
+5,Avda.Concejal Alberto Jimenez Bec esquina C/ Jose Diaz ,Avda.Concejal Alberto Jimenez Bec esquina C/ Jose Diaz frente,30,10,Sevilla,40
+5,C/ Torneo esquina Puerta San Juan parada bus,C/ Torneo esquina Puerta San Juan frente parada bus,40,20,Sevilla,60
+5,C/ Torneo (frente gasolinera),C/ Torneo (Gasolinera),100,90,Sevilla,190
+5,C/ Marques de parada (Farmacia),C/ Marques de parada (Farmacia),0,10,Sevilla,10
+5,Torre Pelli Parada bus N 6, C/Odiel junto a la puerta del centro de salud el Cachorro,230,170,Sevilla,400
+6,Pages del corro esquina con San Vicente de Paul,Teatro Maestranza enfrente,30,10,Sevilla,40
+6, Teatro Maestranza. (En frente),Pages del corro esquina con San Vicente de Paul,50,10,Sevilla,60
+6,Rep argentina N 2,Rep argentina N 13 kiosco,20,100,Sevilla,120
+6,C/ Republica Argentina Edificio Torre de los Remedios N 24,C/ Republica Argentina Restaurante Vips,70,30,Sevilla,100
+6,C/Republica Argentina 34,C/Republica Argentina 31,0,20,Sevilla,20
+6,Blas Infante,Blas Infante,60,60,Sevilla,120
+6,C/Ruben Dario en frente urb parque Ruben Dario,NO,0,0,Sevilla,0
+7,Via Aurelia 16,Via Aurelia 16,80,20,Sevilla,100
+7,C/ Luis de Morales Domino∂Ôs Pizza,C/San Francisco Javier esquina C/ Camilo Jose Cela ,10,20,Sevilla,30
+7,C/ San Francisco Javier esquina C/ Eduardo Dato edificio Huerta del rey,C/ San Francisco Javier esquina C/ Eduardo Dato edificio Huerta del rey,40,0,Sevilla,40
+7,C/San Francisco Javier esquina C/ Camilo Jose Cela ,C/ Luis de Morales Domino∂Ôs Pizza,30,40,Sevilla,70
+7, C/ Cardenal Bueno Monreal parada bus entrada tunel, C/ Cardenal Bueno Monreal parada bus salida tunel,90,20,Sevilla,110
+8,Metro San Juan Alto,Metro San Juan Alto,20,20,San Juan de Aznalfarache,40
+8,Glorieta de la Cartuja,Glorieta de la Cartuja,0,20,Tomares,20
+8,Glorieta Burger King Parada Bus,Glorieta Burger King Parada Bus,,,Tomares,
+8,Camino de Villamanrrique con Cristina Hoyos,Camino de Villamanrrique con Cristina Hoyos,0,0,Tomares,0
+8,Urb. Zaudin C/ Begonia/ Sauces,Urb. Zaudin C/ Begonia/ Sauces,70,0,Bormujos,70
+8,Urb. Zaudin C/ Begonia / Bahunias,Urb. Zaudin C/ Begonia / Bahunias,10,40,Bormujos,50
+8,Urb. Zaudin C/ Begonia / Acacias,Urb. Zaudin C/ Begonia / Acacias,0,0,Bormujos,0
+8,Universidad de Salamanca esquina Avda. San Juan de Dios,Universidad de Salamanca esquina Avda. San Juan de Dios,30,30,Bormujos,60
+9,Avda. Finlandia (Frente Correos),Avda. Finlandia (Correos),40,10,Sevilla,50
+9,Avda. de Grecia,Avda. de Grecia,10,0,Sevilla,10
+9,Avd la palmera Edif. BBVA,Avd la palmera preferncia Betis,10,20,Sevilla,30
+9,Avda. de la Palmera N 25 Edificio Banesto,Avda. de la Palmera N 25 Edificio Banesto. En frente,10,10,Sevilla,20
+9,Paseo de las Delicias (Pabellon de Brasil),Clinica de Fatima,0,10,Sevilla,10
+9,Avd. Adolfo Suarez Bar Cantil,Avd. Adolfo Suarez puerta Club Mercantil,80,50,Sevilla,130
+9,Flota de india bar los Gordales,Flota de india en frente,90,50,Sevilla,140
+10,Hato Verde,Hato verde,0,10,Las Pajanosas,10
+10,Frente Gsolinera Repsol/ La Algaba,Frente Gsolinera Repsol/ La Algaba,10,20,La Algaba,30
+10,Avda. Sevilla 22,,10,10,Gines,20
+10,Avda. Europa 20,,10,0,Gines,10
+10,Glorieta Parque Real,Glorieta Parque Real,20,0,Gines,20
+10,Rotonda Mas Espartinas,Rotonda Mas Espartinas,0,0,Espartina,0
+10,Urbanizacion Santa Teresa,Urbanizacion Santa Teresa,10,10,Espartina,20
+11,Rotonda salteras,Rotonda salteras,0,10,Salteras,10
+11,Urb. Terrazas Vega del Rey (puerta del gimnasio),Urb. Terrazas Vega del Rey (puerta del gimnasio),30,10,Camas,40
+11,C/ Altozano Polideportivo Tomares,C/ Altozano Polideportivo Tomares,40,30,Tomares,70
+11,C/ Triana 1 Tomares,C/ Triana 1 Tomares,50,20,Tomares,70
+11,Rotonda Villares alto Tomares,Rotonda Villares alto Tomares,30,0,Tomares,30
+11,Glorieta del Bombita  Parada Bus,Glorieta del Bombita  Parada Bus,10,40,Tomares,50
+11,Glorieta del Salado Parada Bus,Glorieta del Salado Parada Bus,10,40,Tomares,50
+11,Urb. Colina Blanca Parada Bus,Urb. Colina Blanca Parada Bus,30,0,Castilleja de la Cuesta,30
+11,Avda. de Sevilla Parada Bus,Avda. de Sevilla Parada Bus,10,0,Sevilla,10
